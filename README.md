@@ -1,2 +1,0 @@
-# start-now
-learning programming
